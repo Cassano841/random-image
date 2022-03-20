@@ -1,16 +1,18 @@
 body {
-    background-color: yellowgreen;
+  background-color: yellowgreen;
 }
 
-#center, h2, p{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+#center,
+h2,
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
 }
 
 img {
-    border: 5px solid black;
+  border: 5px solid black;
 }
